@@ -1,6 +1,6 @@
 modAL
 alipy
-git+https://github.com/dataiku-research/cardinal.git
+git+https://github.com/dataiku-research/cardinal.git[sklearn]
 scikit-learn
 openml
 matplotlib
