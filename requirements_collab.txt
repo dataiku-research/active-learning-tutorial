@@ -3,5 +3,4 @@ alipy
 git+https://github.com/dataiku-research/cardinal.git
 scikit-learn
 openml
-baal
 matplotlib
